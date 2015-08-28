@@ -1,2 +1,3 @@
-# Alpha
-A concept ghost theme. always updating
+### Alpha
+
+A concept [Ghost](https://ghost.org/) theme
